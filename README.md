@@ -16,7 +16,7 @@ Make sure the following are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/redis-api-rate-limiter.git
+git clone https://github.com/Subham24Singh/redis-api-rate-limiter.git
 cd redis-api-rate-limiter
 ```
 
